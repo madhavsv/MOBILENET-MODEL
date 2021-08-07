@@ -1,0 +1,76 @@
+body {
+    background-color: cornsilk;
+    font-family:'Qahiri', sans-serif ;
+    
+}
+.header_div {
+    background-color: cyan;
+    color: darkslategrey;
+    
+
+}
+.header_div img {
+    width: 100px;
+}
+.header_div h2 {
+    font-size: 50px;
+}
+.main_div{
+    background-color:rgb(21, 241, 241) ;
+    padding: 10px;
+    margin-top: 16px;
+    border: 3px dashed rgb(109, 131, 255);
+}
+.main_div label{
+    background-color: darksalmon;
+    width: 290px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 18px crimson;
+    font-size: 30px;
+}
+.main_div button {
+    width: 350px;
+    font-size: 40px;
+    box-shadow: 5px 5px 20px rgb(239, 117, 255);
+    margin-top: 20px;
+}
+#camera{
+    border: 2px dashed red;
+    width: 400px;
+    height: 400px;
+    box-shadow: 5px 5px 30px rgb(248, 133, 156);
+
+}
+#result {
+    border: 2px dashed red;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 30px rgb(248, 133, 156);
+
+}
+.footer_div {
+    margin-bottom: 50px;
+
+}
+.footer_div h4 {
+    background-color:rgb(10, 233, 222) ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px white;
+    padding: 6px;
+
+}
+.footer_div img{
+    width: 70px;
+    height: 70px;
+}
+.copy_right_footer {
+    position: fixed;
+    background-color: rgb(209, 205, 205);
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 30px;
+   
+}
